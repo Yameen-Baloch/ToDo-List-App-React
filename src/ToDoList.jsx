@@ -12,7 +12,7 @@ const ToDoList = (props) =>{
             }}
         />
           <li>{props.items}</li>
-          </div>
+          </div>   
         </>
         )
 }
